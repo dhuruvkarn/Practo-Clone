@@ -1,4 +1,34 @@
 # Practo-Clone
+## Technologies Used
+* CSS
+* JavaScript
+* Redux
+* React
+* MongoDb
+* Express
+* Node
+* npm
+* axios
+## Tools
+* VS Code
+* Github
+## functionalities
+* Signup and Login
+* Landing Page
+* Search function 
+* Sort function 
+* Razorpay Gatways
+## Challenges:
+- Getting the product data
+- Logical error
+- Opportunites
+- Exposure to different ways of writing code
+- Learning new concepts
+- Code re-usability
+- Workflow
+it was an interesting experience for all of us working on the project.
+
+
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
